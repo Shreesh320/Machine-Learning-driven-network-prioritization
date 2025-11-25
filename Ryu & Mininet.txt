@@ -1,6 +1,0 @@
-sudo apt-get install mininet
-pip install ryu
-# ENVIRONMENT FOR GPU USE
-python3 -m venv ryu-env
-source ryu-env/bin/activate
-pip install ryu scikit-learn pandas joblib
