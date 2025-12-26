@@ -1,3 +1,7 @@
+UBUNTU VERSION: 22.04.5 LTS
+Mininet Version: 2.3.1b4
+Ryu Version:  4.34
+Open Flow Version: (Open vSwitch) 2.17.9, OpenFlow versions 0x1:0x6
 flow_poller.py for the flow of data using RYU
 simple_topolgy.py for mininet
 train_model.py for training the model using random forest and model has learned that And based on the throughput the priority is being set between 1 & 0 (1 for high, 0 for low)
